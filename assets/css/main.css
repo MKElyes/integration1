@@ -1,0 +1,39 @@
+
+
+/* .justify-content-around li a {
+    font-size: 80%;
+    color: rgb(231, 224, 211);
+    margin-top: 10px;
+} */
+
+#logo {
+    width: 80px;
+    height: 25px;
+    margin-top: 10px;
+    margin-left: 25px;
+    
+}
+#logo1{
+    width: 150px;
+    height: 300px;
+    
+    
+}
+.images{
+    background-image: url(../img/baseball.jpg);
+    width: 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+h2 {
+    font-family: 'Roboto', sans-serif;
+font-family: 'Open Sans', sans-serif;
+}
+p {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Akronim', cursive;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 120%;
+     
+}
